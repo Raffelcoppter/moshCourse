@@ -1,1 +1,2 @@
 2 + 5 = 7
+Für jede a,b,c gilt (a + b) + c = a + (b + c)
